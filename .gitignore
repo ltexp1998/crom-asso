@@ -1,1 +1,11 @@
 /wordpress/wp-config.php
+
+/wordpress/wp-content/plugins/*/
+
+/wordpress/wp-content/themes/*/
+!/wordpress/wp-content/themes/crom
+
+/wordpress/wp-admin
+/wordpress/wp-includes
+
+
